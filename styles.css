@@ -54,8 +54,22 @@
     font-family: 'Gabriela', serif;    
   }
   #servicescover{
-    background-color: rgba(0,0,0,0.4);
     padding-top: 10%;
     padding-bottom: 10%;
   }
-  
+  .what-we-do{
+    font-family: 'Quattrocento', serif;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Gabriela', serif;
+  }
+  .what-we-do .headings{
+    padding-bottom: 38px;
+  }
+  .section-portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:18%;
+    margin-right: 16%; 
+  }
