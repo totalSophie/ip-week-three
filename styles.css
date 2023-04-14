@@ -83,7 +83,7 @@
     font-family: 'Gabriela', serif;
   }
   .section-contact{
-    background-image: url('../images/backgrounds/c_image.jpg');
+    background-image: url('./assets/backgrounds/c_image.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -99,4 +99,13 @@
     padding-top: 40px;
     padding-bottom: 20px;
     font-family: 'Gabriela', serif;
+  }
+
+  footer{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Delius Swash Caps', cursive;
+  }
+  footer p{
+    margin-top: 10px;
   }
