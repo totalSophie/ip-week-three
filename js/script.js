@@ -33,7 +33,6 @@ $(document).ready(function(){
   
   $(document).ready(function(){
     $("#work1").mouseover(function(){
-      console.log("hover1")
       $("#overlay").show();
     }).mouseout(function(){
       $("#overlay").hide();
@@ -49,7 +48,6 @@ $(document).ready(function(){
       $("#overlay3").hide();
     });
     $("#work4").mouseover(function(){
-      console.log("hover4")
       $("#overlay4").show();
     }).mouseout(function(){
       $("#overlay4").hide();
