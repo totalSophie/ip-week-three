@@ -8,7 +8,7 @@ A fictional studio's landing page using Bootstrap and JQuery as part of Week 3's
 
 ## 👷 Author
 
-Sophia Chisiya 
+Soph
 
 ## 🔨 Setup Instructions
 - git clone https://github.com/totalSophie/ip-week-three
